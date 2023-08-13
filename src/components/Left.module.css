@@ -1,0 +1,13 @@
+.left{
+    background-color: rgb(22 22 99);
+    color: azure;
+    height: 500px;
+    margin: 10px;
+    padding: 10px;
+}
+.divider{
+    margin-top: 20px !important;
+    margin-bottom: 20px !important;
+    background-color: azure;
+
+}
